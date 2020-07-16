@@ -16,4 +16,4 @@ Images have low resolution (32x32).
 Data Source: https://www.cs.toronto.edu/~kriz/cifar.html
 
 
-**Due to slow epochs execution , Didn't run this project before uploading **    
+**Due to slow epochs execution , Didn't run this project before uploading  but project is fully compiled**    
